@@ -1,4 +1,3 @@
-*****************Natural Language Processing Project***************
 ********* Text Summarization ***************
 
 Prerequisites:
