@@ -1,0 +1,8 @@
+import sys
+
+with open('positivewords.txt') as f:
+	words = [word.strip() for word in f]
+
+with open('newpositivewords.txt') as f1:
+	for word in words:
+		f1.write(word+":"+" "+"[positive]")
