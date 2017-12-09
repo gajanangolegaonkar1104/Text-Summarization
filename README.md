@@ -11,13 +11,13 @@ Prerequisites:
 
 The program has been tested in the above environment on Windows and works fine.
 
-1. Run the program as:
+1. Run the function as:
 
->python textsummarization.py "Data\Data.txt"
+>textsummarization.py "Data\Data.txt"
 
 2. For examples and help usage:
 
->python textsummarization.py -h
+>textsummarization.py -h
 
 3. The list of stopwords used is:
 Link: https://gist.github.com/sebleier/554280
