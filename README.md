@@ -20,11 +20,11 @@ Running instructions:
 
 Usage function:
 
->textsummarize(<text>)
+>textsummarize(text)
   
   OR
 
->textsummarizefile(<path-to-file>)
+>textsummarizefile(path-to-file)
 
 Want to contribute to the project?
 Please read contributing.md
