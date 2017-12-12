@@ -9,26 +9,21 @@ Prerequisites:
 5. pprint
 6. numpy
 
-The program has been tested in the above environment on Windows and works fine.
+Installation instructions:
 
-1. Run the function as:
+> pip install textsummarization
 
->textsummarization.py "Data\Data.txt"
+Running instructions:
 
-2. For examples and help usage:
+>from textsummarization import textsummarize
 
->textsummarization.py -h
+Usage function:
 
-3. The list of stopwords used is:
-Link: https://gist.github.com/sebleier/554280
+>textsummarize(<text>)
+  
+  OR
 
-a. The file Wordlist has been kept in a way that all stopwords are on newline.
-b. Any new stopwords list should comply with such format for the program to be successful
-c. The file Wordlist should be in the same directory as lesk.py
+>textsummarizefile(<path-to-file>)
 
-4. The list for positive words,negative words,incrementer words and decrementer words should be in the dicts folder
-positive.yml
-negative.yml
-inc.yml
-inv.yml
-Any new lists should comply with such format for the program to be successful
+Want to contribute to the project?
+Please read contributing.md
