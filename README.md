@@ -16,6 +16,7 @@ Installation instructions:
 Running instructions:
 
 >from textsummarization import textsummarize
+>from textsummarization import textsummarizefile
 
 Usage function:
 
