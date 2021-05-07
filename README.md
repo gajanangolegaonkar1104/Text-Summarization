@@ -1,4 +1,5 @@
 ********* Text Summarization ***************
+Code is written by Mr. Gajanan Golegaonkar. Below are the instructions to install the python package
 
 Prerequisites:
 
