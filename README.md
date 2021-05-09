@@ -10,6 +10,7 @@ Prerequisites:
 5. pprint
 6. numpy
 7. Optional: Setup python IDE for using python.
+8. Gajanan built this on his own.
 
 Installation instructions:
 
