@@ -9,7 +9,7 @@ Prerequisites:
 4. textblob installation
 5. pprint
 6. numpy
-7. Optional
+7. Optional: Setup python IDE for using python.
 
 Installation instructions:
 
